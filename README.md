@@ -68,7 +68,4 @@ Each entry contains 11 physicochemical tests (e.g., acidity, alcohol, pH) and a 
 - Matplotlib, Seaborn
 - Scikit-learn
 
----
-
-## 📁 Repository Structure
 
