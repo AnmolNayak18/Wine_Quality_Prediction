@@ -45,9 +45,9 @@ Each entry contains 11 physicochemical tests (e.g., acidity, alcohol, pH) and a 
 
 | Model                 | R² Score | RMSE (approx.) |
 |----------------------|----------|----------------|
-| Linear Regression     | ~0.30    | ~0.67          |
-| SGD Regressor         | ~0.28    | ~0.68          |
-| **Random Forest**     | **~0.50**| **~0.51**      |
+| Linear Regression     | ~0.30    | ~0.72          |
+| SGD Regressor         | ~0.30    | ~0.72          |
+| **Random Forest**     | **~0.51**| **~0.61**      |
 
 > 🔎 The best performing model was the **Random Forest Regressor**, which was able to explain around **50% of the variance** in wine quality.
 
